@@ -1,0 +1,17 @@
+// Custom overrides go first
+$grid-breakpoints: (
+  xs: 0,
+  sm: 480px,
+  md: 640px,
+  lg: 992px,
+  xl: 1300px
+);
+
+.bg-red {
+    background-color: #ff0000
+}
+
+
+@import '~font-awesome/scss/font-awesome';
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index.scss';

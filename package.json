@@ -1,0 +1,52 @@
+{
+  "name": "twg-ecomm-code-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "start": "nodemon server.js",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.19",
+    "concurrently": "^4.1.0",
+    "connect-history-api-fallback": "^1.6.0",
+    "core-js": "^2.6.5",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "font-awesome": "^4.6.3",
+    "heroku": "^7.24.1",
+    "jquery": "^3.1.1",
+    "mongoose": "^5.5.2",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.6.0",
+    "@vue/cli-plugin-e2e-cypress": "^3.6.0",
+    "@vue/cli-plugin-eslint": "^3.6.0",
+    "@vue/cli-plugin-pwa": "^3.6.0",
+    "@vue/cli-plugin-unit-mocha": "^3.6.0",
+    "@vue/cli-service": "^3.6.0",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "@vue/test-utils": "1.0.0-beta.29",
+    "babel-eslint": "^10.0.1",
+    "chai": "^3.5.0",
+    "chai-http": "^4.2.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "mocha": "^5.2.0",
+    "node-sass": "^4.9.0",
+    "nodemon": "^1.18.11",
+    "sass-loader": "^7.1.0",
+    "supertest": "^4.0.2",
+    "vue-template-compiler": "^2.5.21"
+  }
+}

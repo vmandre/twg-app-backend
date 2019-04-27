@@ -1,0 +1,876 @@
+[
+  {
+    "name": "Health \u0026 Grooming",
+    "subCategories": [
+      {
+        "name": "Men\u0027s Shaving \u0026 Grooming",
+        "subCategories": [
+          {
+            "name": "Men’s Grooming,"
+          },
+          {
+            "name": "Men’s Shaving,"
+          }
+        ]
+      },
+      {
+        "name": "Health",
+        "subCategories": [
+          {
+            "name": "Massagers,"
+          },
+          {
+            "name": "Health Monitoring,"
+          }
+        ]
+      },
+      {
+        "name": "Oral Care",
+        "subCategories": [
+          {
+            "name": "Refills \u0026 Accessories,"
+          },
+          {
+            "name": "Electric Tooth brushes \u0026 Flossers,"
+          }
+        ]
+      },
+      {
+        "name": "Women\u0027s Hair Care \u0026 Grooming",
+        "subCategories": [
+          {
+            "name": "Hair Care"
+          },
+          {
+            "name": "Shaving \u0026 Epilators,"
+          },
+          {
+            "name": "Skin Care,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Computers \u0026 Tablets",
+    "subCategories": [
+      {
+        "name": "Printers",
+        "subCategories": [
+          {
+            "name": "Ink, Toner \u0026 Paper,"
+          },
+          {
+            "name": "Printer,"
+          }
+        ]
+      },
+      {
+        "name": "Accessories",
+        "subCategories": [
+          {
+            "name": "Cables, Chargers and Adapters,"
+          },
+          {
+            "name": "Computer Keyboards,"
+          },
+          {
+            "name": "Computer Mice,"
+          },
+          {
+            "name": "Web Cams,"
+          },
+          {
+            "name": "Computer Speakers,"
+          },
+          {
+            "name": "Storage \u0026 Memory,"
+          },
+          {
+            "name": "Computer Monitors,"
+          },
+          {
+            "name": "Computer Headsets,"
+          },
+          {
+            "name": "Apple accessories,"
+          },
+          {
+            "name": "Networking Equipment,"
+          },
+          {
+            "name": "Gaming Headsets,"
+          },
+          {
+            "name": "Gaming Mice,"
+          },
+          {
+            "name": "Storage \u0026 Memory"
+          },
+          {
+            "name": "Gaming Keyboards,"
+          },
+          {
+            "name": "Software,"
+          },
+          {
+            "name": "Software"
+          },
+          {
+            "name": "Portable Power Banks,"
+          }
+        ]
+      },
+      {
+        "name": "Laptops",
+        "subCategories": [
+          {
+            "name": "Laptop Bags \u0026 Accessories,"
+          },
+          {
+            "name": "Laptop,"
+          },
+          {
+            "name": "Chromebooks,"
+          },
+          {
+            "name": "Macbooks,"
+          },
+          {
+            "name": "Modern PC,"
+          }
+        ]
+      },
+      {
+        "name": "Tablets",
+        "subCategories": [
+          {
+            "name": "Tablet accessories,"
+          },
+          {
+            "name": "Tablet accessories"
+          },
+          {
+            "name": "iPads,"
+          },
+          {
+            "name": "Android tablets,"
+          },
+          {
+            "name": "eReaders,"
+          }
+        ]
+      },
+      {
+        "name": "Desktop Computers",
+        "subCategories": [
+          {
+            "name": "iMacs,"
+          },
+          {
+            "name": "PC Computers,"
+          }
+        ]
+      },
+      {
+        "name": "Smart Home",
+        "subCategories": [
+          {
+            "name": "Cameras \u0026 Detection,"
+          },
+          {
+            "name": "Baby Monitors,"
+          },
+          {
+            "name": "Smart Home Accessories ,"
+          },
+          {
+            "name": "Smart Lighting,"
+          },
+          {
+            "name": "Voice Assistants,"
+          }
+        ]
+      },
+      {
+        "name": "Computer Services",
+        "subCategories": [
+          {
+            "name": "Computer, Tablet \u0026 Network Services Set Up,"
+          }
+        ]
+      },
+      {
+        "name": "Desktop Computers,"
+      },
+      {
+        "name": "Laptops,"
+      }
+    ]
+  },
+  {
+    "name": "Whiteware \u0026 Kitchen Appliances",
+    "subCategories": [
+      {
+        "name": "Small Kitchen Appliances",
+        "subCategories": [
+          {
+            "name": "Cooking Appliances"
+          },
+          {
+            "name": "Drinkmakers,"
+          },
+          {
+            "name": "Blenders, Liquidisers \u0026 Smoothie makers"
+          },
+          {
+            "name": "Mixers \u0026 Food Processors"
+          },
+          {
+            "name": "Coffee machines and grinders,"
+          },
+          {
+            "name": "Toasters,"
+          },
+          {
+            "name": "Kettles,"
+          },
+          {
+            "name": "Novelty,"
+          },
+          {
+            "name": "Juicers,"
+          },
+          {
+            "name": "Microwaves,"
+          },
+          {
+            "name": "Kitchen Accessories and gadgets,"
+          }
+        ]
+      },
+      {
+        "name": "Kitchen whiteware and white appliances",
+        "subCategories": [
+          {
+            "name": "Fridges, Freezers and refrigerators"
+          },
+          {
+            "name": "Ovens"
+          },
+          {
+            "name": "Cooktops"
+          },
+          {
+            "name": "Rangehoods,"
+          },
+          {
+            "name": "Dishwashers and dish drawers"
+          },
+          {
+            "name": "Dishwashers and dish drawers,"
+          }
+        ]
+      },
+      {
+        "name": "Washing machines \u0026 Clothes Dryers",
+        "subCategories": [
+          {
+            "name": "Clothes Dryer,"
+          },
+          {
+            "name": "Top load washing machines \u0026 clothes washers,"
+          },
+          {
+            "name": "Front load washing machines,"
+          },
+          {
+            "name": "Tubs,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Household Appliances",
+    "subCategories": [
+      {
+        "name": "Heating \u0026 Cooling",
+        "subCategories": [
+          {
+            "name": "Heaters"
+          },
+          {
+            "name": "Electric blankets,"
+          },
+          {
+            "name": "Dehumidifiers,"
+          },
+          {
+            "name": "Heating Accessories,"
+          },
+          {
+            "name": "Fans,"
+          },
+          {
+            "name": "Dyson Fans,"
+          },
+          {
+            "name": "Heat Pumps \u0026 Air Conditioning"
+          }
+        ]
+      },
+      {
+        "name": "Vacuum Cleaners",
+        "subCategories": [
+          {
+            "name": "Standard Vacuum Cleaners,"
+          },
+          {
+            "name": "Bags \u0026 Filters,"
+          },
+          {
+            "name": "Vacuum Cleaners"
+          },
+          {
+            "name": "Accessories,"
+          }
+        ]
+      },
+      {
+        "name": "Household Accessories",
+        "subCategories": [
+          {
+            "name": "Bulbs \u0026 Torches"
+          },
+          {
+            "name": "Weather Stations,"
+          },
+          {
+            "name": "Batteries \u0026 Chargers"
+          }
+        ]
+      },
+      {
+        "name": "Garment Care",
+        "subCategories": [
+          {
+            "name": "Sewing Machines,"
+          },
+          {
+            "name": "Irons,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Phones \u0026 GPS",
+    "subCategories": [
+      {
+        "name": "Home Phones,"
+      },
+      {
+        "name": "GPS",
+        "subCategories": [
+          {
+            "name": "GPS \u0026 UHF Accessories,"
+          },
+          {
+            "name": "GPS \u0026 Radars,"
+          },
+          {
+            "name": "Walkie Talkies,"
+          },
+          {
+            "name": "Car Dashcams,"
+          },
+          {
+            "name": "Marine Equipment,"
+          }
+        ]
+      },
+      {
+        "name": "Phone Accessories",
+        "subCategories": [
+          {
+            "name": "Hands Free kits,"
+          },
+          {
+            "name": "Mobile Phone Cases"
+          },
+          {
+            "name": "Sim Cards,"
+          }
+        ]
+      },
+      {
+        "name": "Mobile Phones,"
+      },
+      {
+        "name": "Mobile Phone Services",
+        "subCategories": [
+          {
+            "name": "Instore iPhone Setup Service,"
+          }
+        ]
+      },
+      {
+        "name": "Mobile Phone Services,"
+      }
+    ]
+  },
+  {
+    "name": "Televisions",
+    "subCategories": [
+      {
+        "name": "Accessories",
+        "subCategories": [
+          {
+            "name": "Cables \u0026 Adaptors,"
+          },
+          {
+            "name": "Freeview,"
+          },
+          {
+            "name": "Other Accessories,"
+          },
+          {
+            "name": "Antennas \u0026 Aerials,"
+          },
+          {
+            "name": "Remotes,"
+          },
+          {
+            "name": "Media Players,"
+          }
+        ]
+      },
+      {
+        "name": "Blu-Ray \u0026 DVD Players",
+        "subCategories": [
+          {
+            "name": "Blu-ray Titles,"
+          },
+          {
+            "name": "Recordable Media,"
+          },
+          {
+            "name": "DVD"
+          },
+          {
+            "name": "Blu-Ray Players,"
+          }
+        ]
+      },
+      {
+        "name": "Wall Brackets \u0026 Cabinets",
+        "subCategories": [
+          {
+            "name": "Wall brackets,"
+          },
+          {
+            "name": "Cabinets,"
+          }
+        ]
+      },
+      {
+        "name": "Televisions",
+        "subCategories": [
+          {
+            "name": "Full HD \u0026 HD Televisions"
+          },
+          {
+            "name": "Ultra HD / 4k Televisions"
+          },
+          {
+            "name": "OLED Televisions,"
+          },
+          {
+            "name": "OLED Televisions"
+          },
+          {
+            "name": "QLED 8K Televisions,"
+          }
+        ]
+      },
+      {
+        "name": "Projectors \u0026 Screens",
+        "subCategories": [
+          {
+            "name": "Projectors,"
+          }
+        ]
+      },
+      {
+        "name": "Wall Brackets \u0026 Cabinets,"
+      },
+      {
+        "name": "TV \u0026 Audio Services",
+        "subCategories": [
+          {
+            "name": "Learning \u0026 Support,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Audio",
+    "subCategories": [
+      {
+        "name": "Audio Accessories",
+        "subCategories": [
+          {
+            "name": "Microphones,"
+          }
+        ]
+      },
+      {
+        "name": "Portable Audio",
+        "subCategories": [
+          {
+            "name": "Headphones,"
+          },
+          {
+            "name": "CD Players \u0026 Radios,"
+          },
+          {
+            "name": "iPods \u0026 MP3s"
+          },
+          {
+            "name": "Digital Voice Recorders ,"
+          },
+          {
+            "name": "Portable Speakers,"
+          }
+        ]
+      },
+      {
+        "name": "Home Audio",
+        "subCategories": [
+          {
+            "name": "Clock Radios,"
+          },
+          {
+            "name": "Home Theatre Systems,"
+          },
+          {
+            "name": "Stereos"
+          },
+          {
+            "name": "Multi-room,"
+          },
+          {
+            "name": "Components,"
+          },
+          {
+            "name": "Sound bars,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Photo \u0026 Video",
+    "subCategories": [
+      {
+        "name": "Camera Accessories",
+        "subCategories": [
+          {
+            "name": "Camera Batteries,"
+          },
+          {
+            "name": "Tripods,"
+          },
+          {
+            "name": "Other Accessories,"
+          },
+          {
+            "name": "Memory Cards,"
+          },
+          {
+            "name": "Camera Bags,"
+          },
+          {
+            "name": "Camera Lenses,"
+          },
+          {
+            "name": "Camera Flashguns,"
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "subCategories": [
+          {
+            "name": "Binoculars,"
+          }
+        ]
+      },
+      {
+        "name": "Instant Cameras",
+        "subCategories": [
+          {
+            "name": "Instant Camera Film,"
+          },
+          {
+            "name": "Instant Cameras,"
+          }
+        ]
+      },
+      {
+        "name": "Digital Cameras",
+        "subCategories": [
+          {
+            "name": "Digital Still Cameras,"
+          },
+          {
+            "name": "Mirrorless Cameras,"
+          },
+          {
+            "name": "Digital SLR Cameras,"
+          }
+        ]
+      },
+      {
+        "name": "Action Cameras",
+        "subCategories": [
+          {
+            "name": "Action Camera Accessories,"
+          },
+          {
+            "name": "Action Cameras,"
+          },
+          {
+            "name": "360 Action Cameras,"
+          }
+        ]
+      },
+      {
+        "name": "Camcorders,"
+      },
+      {
+        "name": "Drones",
+        "subCategories": [
+          {
+            "name": "Drone Accessories,"
+          },
+          {
+            "name": "Drones,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drones, Gaming \u0026 Toys",
+    "subCategories": [
+      {
+        "name": "Xbox",
+        "subCategories": [
+          {
+            "name": "Xbox Controllers \u0026 Accessories,"
+          },
+          {
+            "name": "Xbox Games,"
+          },
+          {
+            "name": "Xbox One Consoles,"
+          }
+        ]
+      },
+      {
+        "name": "Gaming Accessories",
+        "subCategories": [
+          {
+            "name": "Accessories,"
+          }
+        ]
+      },
+      {
+        "name": "PlayStation",
+        "subCategories": [
+          {
+            "name": "PlayStation Games,"
+          },
+          {
+            "name": "PlayStation Controllers \u0026 Accessories,"
+          },
+          {
+            "name": "PlayStation 4 Consoles,"
+          }
+        ]
+      },
+      {
+        "name": "Toys",
+        "subCategories": [
+          {
+            "name": "Radio Control Toys,"
+          },
+          {
+            "name": "STEM Toys,"
+          },
+          {
+            "name": "Christmas Seasonal,"
+          }
+        ]
+      },
+      {
+        "name": "Nintendo",
+        "subCategories": [
+          {
+            "name": "Nintendo Consoles,"
+          },
+          {
+            "name": "Nintendo Games,"
+          },
+          {
+            "name": "Nintendo Accessories,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wearables",
+    "subCategories": [
+      {
+        "name": "Wearable Accessories,"
+      },
+      {
+        "name": "Apple Watch,"
+      },
+      {
+        "name": "Activity Trackers,"
+      },
+      {
+        "name": "VR Headsets,"
+      }
+    ]
+  },
+  {
+    "name": "Clearance Centre",
+    "subCategories": [
+      {
+        "name": "Clearance Small Appliances",
+        "subCategories": [
+          {
+            "name": "Clearance Personal Care,"
+          },
+          {
+            "name": "Clearance Jugs,"
+          },
+          {
+            "name": "Clearance Toasters,"
+          },
+          {
+            "name": "Clearance Mixers \u0026 Blenders,"
+          },
+          {
+            "name": "Clearance Other Small Appliances,"
+          },
+          {
+            "name": "Clearance Coffee Machines,"
+          }
+        ]
+      },
+      {
+        "name": "Clearance Cooking",
+        "subCategories": [
+          {
+            "name": "Clearance Freestanding Ovens,"
+          },
+          {
+            "name": "Clearance Built In Ovens,"
+          },
+          {
+            "name": "Clearance Ceramic Cooktops,"
+          },
+          {
+            "name": "Clearance Induction Cooktops,"
+          },
+          {
+            "name": "Clearance Gas Cooktops,"
+          },
+          {
+            "name": "Clearance Rangehoods,"
+          }
+        ]
+      },
+      {
+        "name": "Clearance Refrigeration",
+        "subCategories": [
+          {
+            "name": "Clearance Bottom Mount,"
+          },
+          {
+            "name": "Clearance Vertical Fridges,"
+          },
+          {
+            "name": "Clearance Top Mount,"
+          },
+          {
+            "name": "Clearance French Door,"
+          },
+          {
+            "name": "Clearance Chest Freezer,"
+          }
+        ]
+      },
+      {
+        "name": "Clearance Laundry",
+        "subCategories": [
+          {
+            "name": "Clearance Top Load Washers,"
+          },
+          {
+            "name": "Clearance Dryers,"
+          },
+          {
+            "name": "Clearance Front Load Washers,"
+          }
+        ]
+      },
+      {
+        "name": "Clearance Audio",
+        "subCategories": [
+          {
+            "name": "Clearance Soundbars,"
+          },
+          {
+            "name": "Clearance Stereo,"
+          }
+        ]
+      },
+      {
+        "name": "Clearance Dishwashing",
+        "subCategories": [
+          {
+            "name": "Clearance Dishwashers,"
+          }
+        ]
+      },
+      {
+        "name": "Clearance Television",
+        "subCategories": [
+          {
+            "name": "Clearance 33\\ to 50\\,"
+          },
+          {
+            "name": "Clearance 32\\ \u0026 below,"
+          },
+          {
+            "name": "Clearance 51\\ to 64\\,"
+          },
+          {
+            "name": "Clearance 65\\ \u0026 above,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GIFTCARDS"
+  }
+]

@@ -1,0 +1,16 @@
+<section class="products">
+  <div class="row">
+
+    <div class="col-md-3" v-for="(product, index) in products" :key="index">
+      <m-product-card :product="product"></m-product-card>
+    </div>
+
+    <div v-show="products.length > 0" class="row col-md-12">
+      <div class="col-md-12">
+        <m-pagination :currentPage="pageNumber" @pageClick="(index) => requestPage(index)"></m-pagination>
+      </div>
+    </div>
+
+  </div>
+  </div>
+</section>
